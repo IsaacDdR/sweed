@@ -8,27 +8,21 @@
           class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
         >
           <h1
-            class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900"
+            class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900 uppercase"
           >
-            Before they sold out <br class="hidden lg:inline-block" />readymade
-            gluten
+            Bienvenido a Sweed
           </h1>
           <p class="mb-8 leading-relaxed">
-            Copper mug try-hard pitchfork pour-over freegan heirloom neutra air
-            plant cold-pressed tacos poke beard tote bag. Heirloom echo park
-            mlkshk tote bag selvage hot chicken authentic tumeric truffaut
-            hexagon try-hard chambray.
+            Tenemos para ti excelentes artículos de importación y nacionales,
+            para que te ponches con lo mejor del mercado, también te ofrecemos
+            la opción de armar un kit o pedir el KIT SWEED.
+            <br />¡Contactanos!
           </p>
           <div class="flex justify-center">
             <button
               class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
             >
-              Button
-            </button>
-            <button
-              class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg"
-            >
-              Button
+              Contacto
             </button>
           </div>
         </div>
@@ -49,14 +43,14 @@
           <h1
             class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4"
           >
-            Raw Denim Heirloom Man Braid
+            ¿Quiénes somos?
           </h1>
           <p
             class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s"
           >
-            Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-            taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi
-            pug.
+            Somos una smoke shop en línea, ahora puedes pedir tus artículos y
+            recibirlos en la puerta de tu casa, tus productos llegaran siempre
+            de una manera discreta.
           </p>
           <div class="flex mt-6 justify-center">
             <div class="w-16 h-1 rounded-full bg-indigo-500 inline-flex"></div>
@@ -83,27 +77,12 @@
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                Shooting Stars
+                Novedad
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                Artículos desde los básicos hasta los más nuevos. Si buscas
+                alguno y no está en el catálogo, contactanos y te damos precio.
               </p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center"
-                >Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
             </div>
           </div>
           <div class="p-4 md:w-1/3 flex flex-col text-center items-center">
@@ -128,27 +107,13 @@
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                The Catalyzer
+                Accesible
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                Ahora es más fácil conseguir tus productos, en un par de pasos
+                podras encargar lo que necesitas y llegará a ti. Tenemos envíos
+                nacionales desde $60.
               </p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center"
-                >Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
             </div>
           </div>
           <div class="p-4 md:w-1/3 flex flex-col text-center items-center">
@@ -170,35 +135,16 @@
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                Neptune
+                Atención
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                La atención siempre es directa, vendemos también por mayoreo. No
+                dudes en preguntar por lo que buscas, siempre será un gusto
+                atenderte.
               </p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center"
-                >Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
             </div>
           </div>
         </div>
-        <button
-          class="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg"
-        >
-          Button
-        </button>
       </div>
     </section>
 
@@ -211,45 +157,49 @@
             v-for="product in products"
             :key="product.name"
           >
-            <a class="block relative h-48 rounded overflow-hidden">
-              <img
-                alt="ecommerce"
-                class="object-cover object-center w-full h-full block"
-                :src="product.image"
-              />
-            </a>
-            <div class="mt-4">
-              <h3
-                class="text-gray-500 text-xs tracking-widest title-font mb-1"
-              ></h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">
-                {{ product.name }}
-              </h2>
-              <h2
-                v-if="product.flavor"
-                class="text-gray-900 title-font text-lg font-medium"
-              >
-                {{ product.flavor }}
-              </h2>
+            <NuxtLink
+              :to="{ name: 'products-slug', params: { slug: product.slug } }"
+            >
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img
+                  alt="ecommerce"
+                  class="object-cover object-center w-full h-full block"
+                  :src="product.image"
+                />
+              </a>
+              <div class="mt-4">
+                <h3
+                  class="text-gray-500 text-xs tracking-widest title-font mb-1"
+                ></h3>
+                <h2 class="text-gray-900 title-font text-lg font-medium">
+                  {{ product.name }}
+                </h2>
+                <h2
+                  v-if="product.flavor"
+                  class="text-gray-900 title-font text-lg font-medium"
+                >
+                  {{ product.flavor }}
+                </h2>
 
-              <div v-if="product.colors" class="flex items-center">
-                <div class="flex">
-                  <span class="mr-1 pt-1.5">Colores : </span>
-                  <span
-                    v-for="color in product.colors"
-                    :key="color"
-                    class="mr-1"
-                  >
-                    <button
-                      :class="[
-                        `border-2 border-${color}-300 bg-${color}-300 rounded-full w-6 h-6 focus:outline-none`
-                      ]"
-                    ></button>
-                  </span>
+                <div v-if="product.colors" class="flex items-center">
+                  <div class="flex">
+                    <span class="mr-1 pt-1.5">Colores : </span>
+                    <span
+                      v-for="color in product.colors"
+                      :key="color"
+                      class="mr-1"
+                    >
+                      <button
+                        :class="[
+                          `border-2 border-${color}-300 bg-${color}-300 rounded-full w-6 h-6 focus:outline-none`
+                        ]"
+                      ></button>
+                    </span>
+                  </div>
                 </div>
+                <p class="mt-1">$ {{ product.price }}</p>
               </div>
-              <p class="mt-1">$ {{ product.price }}</p>
-            </div>
+            </NuxtLink>
           </div>
         </div>
       </div>
@@ -257,7 +207,12 @@
 
     <!--Cómo comprar-->
     <section class="text-gray-600 body-font">
-      <div class="container px-5 py-24 mx-auto flex flex-wrap">
+      <h1
+        class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4 text-center"
+      >
+        ¿Cómo comprar?
+      </h1>
+      <div class="container px-5 py-6 mx-auto flex flex-wrap">
         <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
           <div
             class="h-full w-6 absolute inset-0 flex items-center justify-center"
@@ -289,7 +244,7 @@
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
               <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">
-                Shooting Stars
+                Encuentra
               </h2>
               <p class="leading-relaxed">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
@@ -329,7 +284,7 @@
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
               <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">
-                The Catalyzer
+                Contactanos
               </h2>
               <p class="leading-relaxed">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
@@ -370,7 +325,7 @@
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
               <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">
-                The 400 Blows
+                Compra y confirma
               </h2>
               <p class="leading-relaxed">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
@@ -411,7 +366,7 @@
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
               <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">
-                Neptune
+                Difruta
               </h2>
               <p class="leading-relaxed">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
@@ -432,13 +387,15 @@
           <h1
             class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900"
           >
-            Pitchfork Kickstarter Taxidermy
+            Envíos
           </h1>
           <p class="leading-relaxed text-base">
-            Locavore cardigan small batch roof party blue bottle blog meggings
-            sartorial jean shorts kickstarter migas sriracha church-key synth
-            succulents. Actually taiyaki neutra, distillery gastropub pok pok
-            ugh.
+            Una vez confirmada tu compra se acordará la forma de envío, contamos
+            con envios nacionales desde $60, Llega en un periodo de 8 a 10 días
+            habiles o envios con diferencia que van de 2-3 dias habiles con
+            diferencia de precio dependiendo del Código Postal.
+            <br />(*Si estás dentro de Santiago de Qro. el envío será por medio
+            de Didi o Uber entrega.
           </p>
           <a class="text-indigo-500 inline-flex items-center mt-4"
             >Learn More

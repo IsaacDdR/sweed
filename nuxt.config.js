@@ -4,6 +4,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
+    htmlAttrs: {
+      lang: "es"
+    },
     title: "sweedmx",
     meta: [
       { charset: "utf-8" },
@@ -21,6 +24,20 @@ export default {
       }
     ]
   },
+
+  snipcart: {
+    locales: {
+      es: {
+        cart_summary: {
+          total: "Total es"
+        }
+      }
+    },
+    // Options available
+    key:
+      "ODJjNjNjYTQtZmJlZC00MDVjLWI2ZmEtOTgxZGIxMGU0YmU5NjM3NDIxOTQxNjAwNjMwMTAw"
+  },
+
   server: {
     host: "0.0.0.0"
   },
@@ -36,6 +53,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    "@nuxtjs/snipcart",
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
     "@nuxt/image"

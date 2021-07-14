@@ -1,6 +1,7 @@
 {
   "name": "Doob tube",
-  "price": 5,
+  "price": "5",
   "image": "https://dummyimage.com/420x260",
-  "colors": ["blue", "red", "yellow", "green", "purple", "indigo"]
+  "colors": ["blue", "red", "yellow", "green", "purple", "indigo"],
+  "slug": "doob-tube"
 }
